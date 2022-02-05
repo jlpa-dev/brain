@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-thought-js",
+    "path": "/thoughts/0033-herido-y-solo/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"JLPA | BLOG"}},"markdownRemark":{"id":"7739d87f-41b1-5f46-aa54-762f793f0737","excerpt":"/* 28/09/2019 */\nHerido y solo, se refugio en los oscuros rincones de su mente...","html":"<p>/* 28/09/2019 */\nHerido y solo, se refugio en los oscuros rincones de su mente...</p>","frontmatter":{"title":"Herido y solo","date":"September 28, 2019","frontimage":null,"description":null},"fields":{"slug":"/0033-herido-y-solo/"}},"previous":{"fields":{"slug":"/0034-y-si-me-voy/"},"frontmatter":{"title":"Y si me voy"}},"next":{"fields":{"slug":"/0021-y-un-dia-despiertas/"},"frontmatter":{"title":"Y un dia despiertas"}}},"pageContext":{"id":"7739d87f-41b1-5f46-aa54-762f793f0737","previousPostId":"e0f2b4b1-eb94-5b67-9ed7-313943d1402a","nextPostId":"0ca2dd48-01cc-5e50-b552-00b7a2944530"}},
+    "staticQueryHashes": ["2841359383","3865664119"]}

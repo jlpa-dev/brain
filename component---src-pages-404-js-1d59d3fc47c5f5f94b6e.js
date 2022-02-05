@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkidea=self.webpackChunkidea||[]).push([[883],{9616:function(e,t,n){n.r(t);var a=n(7294),l=n(1633),u=n(6179);t.default=function(){return a.createElement(l.Z,null,a.createElement(u.Z,{title:"404: Not found"}),a.createElement("h1",null,"No encontrado"),a.createElement("p",null,"Esta ruta no existe... la tristesa."))}}}]);
+//# sourceMappingURL=component---src-pages-404-js-1d59d3fc47c5f5f94b6e.js.map
